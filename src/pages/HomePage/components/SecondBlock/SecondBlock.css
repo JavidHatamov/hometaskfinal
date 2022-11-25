@@ -1,0 +1,14 @@
+.second-block{
+    display:flex;
+    justify-content: space-around;
+    height: 193px;
+    align-items: center;
+    border: 2px solid black;
+    gap: 70px;
+}
+.second-block img{
+    width: 160px;
+    height: 72px;
+    position: relative;
+    bottom: 5px;
+}

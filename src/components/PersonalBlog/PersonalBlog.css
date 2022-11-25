@@ -1,0 +1,48 @@
+.blcomment {
+    width: 488px;
+    height: 341px;
+    background: linear-gradient(180deg, #F5F5F5 61.47%, rgba(245, 245, 245, 0) 97.2%);
+    font-family: 'Inter',sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.im{
+    margin-top: 32px;
+}
+.imname{
+    display: flex;   
+}
+.z-index-mob{
+    z-index: -1;
+    position: relative;
+    right: 11px;
+}
+.name h2{
+    margin-top: 32px;
+    margin-bottom: 1px;
+    font-family: 'Inter',sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    height: 23px;
+    width: 384px;
+}
+.napisat{
+    margin-top: 1px;
+}
+.z-index-1{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    right: 14px;
+    z-index: -1;
+}
+.pad{
+    border: 1px solid #DFDFDE;
+    padding: 7px 62px 0px 62px;
+}

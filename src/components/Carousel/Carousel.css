@@ -1,0 +1,53 @@
+
+.commentBlog{
+    overflow: hidden;
+    margin-left: 352px;
+}
+.abovePart{
+    display: flex;
+    justify-content: flex-start;
+    gap: 315px;
+}
+.firstBtn{
+    bottom: 20px;
+}
+.scroll1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 33px;
+}
+.btn{
+    background-color: white;
+    border: 0;
+    position: relative;
+}
+.linescroll{
+    display: flex;
+    width: 401px;
+}
+.line1{
+    width: 159px;
+    height: 2px;
+    background-color: black;
+    margin-top: 7px;
+}
+.line2{
+    width: 401px;
+    height: 1px;
+    margin-left: -159px;
+    background-color: black;
+    margin-top: 8px;
+}
+.secondBtn{
+    bottom: 20px;
+}
+.belowPart{
+    width: max-content;
+    display: flex;
+    gap: 32px;
+}
+.Square{
+    width:488px;
+    height:max-content;
+    transition: margin-left 1s ease-in-out;
+}

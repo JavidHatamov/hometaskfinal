@@ -1,0 +1,177 @@
+.main-one{
+    width: 1216px;
+    height: 792px;
+}
+.head1{
+    width: 1216px;
+    height: 64px;
+    font-family:'Inter', sans-serif;
+    font-size: 55px;
+    font-weight: 800;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 32px;
+}
+.head2{
+    width: 1216px;
+    height: 56px; 
+    display: flex;
+    justify-content: flex-start;
+    border-bottom: 0.98px solid #DFDFDE;
+}
+.n14{
+    height: 30px;
+    width: 106px;
+    font-family: 'Inter', sans-serif;
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-right: 103px;
+    border-bottom: 1.96px solid black;
+    padding-top: 8.58px;
+    padding-bottom: 15.46px;
+    }
+    .n9{
+    height: 30px;
+    width: 112px;
+    font-family: 'Inter', sans-serif;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding-top: 8.58px;
+    color: #A8A8A8;;
+    }
+    .n36{
+    height: 30px;
+    width: 59px;
+    font-family: 'Inter', sans-serif;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 96px;
+    padding-top: 8.58px;
+    color: #A8A8A8;
+    }
+    .sup1{
+    height: 47.157894134521484px;
+    width: 25px;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    }
+    .sup2{
+    height: 47.157894134521484px;
+    width: 25px;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    }
+    .sup3{
+    height: 47.157894134521484px;
+    width: 25px;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    }
+   
+       
+.gridh2{
+    height: 32px;
+    width: 320px;
+    font-family:'Inter', sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left:32px;
+    }
+    .grid5p{
+    height: 56px;
+    width: 320px;
+    font-family:'Inter', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    margin-left:32px;
+}
+.konsultasiya{
+    height: 22px;
+    width: 130px;
+    font-family:'Inter', sans-serif;
+    font-size: 11px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0.17em;
+    text-align: left;
+    padding-bottom: 5px;
+    margin-left:32px;
+    margin-top: 70px;
+    border:1px solid gray;
+    border-radius: 2px;
+}
+
+.button{
+    height:87px;
+    width:384px;
+}
+.button24{
+    height: 22px;
+    width: 243px;
+    font-family:'Inter',sans-serif;
+    font-size: 11px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0.17em;
+    text-align: left;
+    margin-top: 11px;
+    margin-left: 486.5px;
+    display: inline-block;
+    }
+.bottomtext{
+    border: 1px solid black;
+}
+    .griditem{
+        width: 384px;
+        height: 248px;
+        border: 1px solid black;
+    }
+    .image1{
+        position: relative;
+        bottom: 61px;
+        left: 208px;
+    }
+    .grid-layout{
+        display: grid;
+        grid-template-columns: auto auto auto;
+        gap: 29px;
+        width: fit-content;
+    }
+    .gridContent{
+        width:320px;
+        height:200px;
+        position: relative;
+        bottom: 249px;
+        margin: auto;
+    }
+.headofone{
+    margin-bottom: 31px;
+}

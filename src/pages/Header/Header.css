@@ -1,0 +1,122 @@
+
+header{
+height: 120px;
+display: flex;
+flex-direction: column;
+gap: 31px;
+}
+.part1ofheader{
+max-width:1214px;
+margin-left: auto;
+margin-right: auto;
+display: flex;
+gap: 450px;
+}
+.logo{
+margin-top: 20px;
+max-width: 151px;
+height: 21px;
+}
+.wp-phone{
+position: relative;
+top: 16px;
+}
+#logo{
+height: 17px;
+width: 120px;
+}
+.frame239{
+max-width: 140px;
+display: flex;
+gap: 16px;
+margin-right: 31px;
+}
+#online{
+position: relative;
+bottom: 42px;
+left: 115px;
+}
+.iconbutton{
+width: 531px;
+display: flex;
+margin-top: 21px;
+}
+.avatar-label{
+max-width: 191px;
+display: flex;
+gap: 8px;
+margin-right: 16px;
+}
+.black-small{
+height: 30px;
+width: 150px;
+display: flex;
+align-items: center;
+padding: 0px 12px;
+background: #000000;
+border-radius: 4px;
+}
+.number{
+align-self: center;
+height: 22px;
+width: 147px;
+font-size: 16px;
+line-height: 22px;
+letter-spacing: 0.01em;
+font-family: 'Inter',sans-serif;
+font-style: normal;
+color: #000000;
+}
+.black{  
+width: 153px;
+height: 22px;
+font-family: 'Inter',sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 22px;
+letter-spacing: 0.17em;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+.part2ofheader{
+height: 30px;
+max-width: 1211px;
+border-radius: 0px;
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 9px;
+margin-left: auto;
+margin-right: auto;
+}
+.span{
+font-family:'Inter',sans-serif;
+height: 30px;
+left: 0px;
+top: 0px;
+border-radius: 28px;
+padding: 0px 12px 0px 12px;
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 12px;
+background: #F2F2F2;
+border-radius: 28px;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+@media(min-width:376px){
+.mobile-only{
+display: none !important;
+}
+}
+    
+@media(max-width:375px){
+.desktop-only{
+display: none !important;
+}
+}

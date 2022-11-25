@@ -1,0 +1,84 @@
+#foot31server{
+    margin-top: 100px;
+    display: flex;
+}
+.foot31m{
+    margin-left: 89px;
+}
+.foot31 p{
+    font-family:'Inter',sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    height: 97px;
+    width: 224px;
+    margin-top: 19px;
+    margin-bottom: 15px;
+    color: #787878;
+}
+.foot31 h3{
+    font-family:'Inter',sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    height: 23px;
+    width: 208px;
+}
+.foot31 h2{
+    font-family:'Inter',sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    margin-bottom: 34px;
+}
+#obraz{
+    margin-top: 12px;
+}
+.foot31server,.foot31,#lastfoot31{
+    color: white;
+}
+.firsth2{
+    margin-top:0px;   
+}
+.foot31, #lastfoot31{
+    height: 190px;
+}
+#online2{
+    position: relative;
+    bottom: 23px;
+    right: 40px;
+}
+#lastfoot31 h2{
+    font-family: 'Inter',sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0.01em;
+    text-align: left;  
+}
+#lastfoot31 h3{
+    font-family: 'Inter',sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top:13px;
+    margin-bottom:75px;
+    }
+    #lastfoot31{
+    margin-left: 109px;
+}
+.socialicons{
+    display: flex;
+}
+#socialinsta{
+    margin-left: 16px;
+    margin-right: 16px;
+}
